@@ -13,15 +13,14 @@ Our project will be done using a sequence of save and commits and branch actions
 <!-- Do not modify or change any text in "!--" bracketed areas such as this --- these are instructions to
 you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
 
+## First Verse 
+<!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 THERE are certain things - as, a spider, a ghost,  
 The income-tax, gout, an umbrella for three -  
 That I hate, but the thing that I hate the most  
-Is a thing they call the Sea.  
+Is a thing they call the Sea. 
 
-Pour some salt water over the floor -
-
-## First Verse 
-<!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+Pour some salt water over the floor -  
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
